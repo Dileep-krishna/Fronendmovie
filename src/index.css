@@ -1,0 +1,25 @@
+.admin-page {
+  padding: 20px;
+}
+
+.admin-movie-form input {
+  margin: 5px;
+  padding: 5px;
+}
+
+.admin-movie-form button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.movies-list {
+  margin-top: 10px;
+}
+
+.movie-item {
+  margin: 5px 0;
+}
+
+.movie-item button {
+  margin-left: 10px;
+}
